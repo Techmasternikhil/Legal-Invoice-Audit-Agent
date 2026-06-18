@@ -5,7 +5,7 @@ An automated, intelligent pipeline built with the **Google Agent Development Kit
 ## 🎯 1. Problem Statement
 In the legal sector, reviewing vendor invoices is a high-stakes, manual process. Law firms and corporations must cross-reference hundreds of line items against complex **External Client/Contract Rules** and **Internal Financial Controls**.
 
-### The Challenges:
+### The Challenge:
 *   **Cost Leakage:** High error rates lead to overpayment on capped tasks or inflated rates.
 *   **Time Consumption:** Analysts spend hours cross-referencing PDFs with static databases.
 *   **Client Trust:** Disputes over non-compliant billing delay payments and damage relationships.
@@ -52,7 +52,6 @@ The solution features a live Web UI where users can upload invoice data and rece
 <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/349309c5-713f-4c3d-98f5-bc496f270323" />
 
 <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/a12d2bcd-8a13-4002-a6e3-43dbe6dd6b0b" />
-
 
 ### Scenario Example:
 The agent identifies a **Junior Associate** billing **15 hours** (limit: 10) at **\$350/hr** (limit: \$200).
