@@ -5,7 +5,7 @@ An automated, intelligent pipeline built with the **Google Agent Development Kit
 ## 🎯 1. Problem Statement
 In the legal sector, reviewing vendor invoices is a high-stakes, manual process. Law firms and corporations must cross-reference hundreds of line items against complex **External Client/Contract Rules** and **Internal Financial Controls**.
 
-### The Challenges:
+### The Challenge:
 *   **Cost Leakage:** High error rates lead to overpayment on capped tasks or inflated rates.
 *   **Time Consumption:** Analysts spend hours cross-referencing PDFs with static databases.
 *   **Client Trust:** Disputes over non-compliant billing delay payments and damage relationships.
